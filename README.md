@@ -24,6 +24,7 @@
 <br>
 <img src="https://i7.imageban.ru/out/2024/01/05/1853bcb172744fa83ed68ce75a32ac93.png" height=30>
 ![Apache JMeter Badge](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=for-the-badge)
+![Charles Badge](https://img.shields.io/badge/Charles-F3F5F5?logo=charles&logoColor=000&style=for-the-badge)
 <br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,4 +36,11 @@
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br><br>
+## Проекты
+|№|Ссылка|Описание|Инструменты|
+|-|-|-|-|
+|1|[Портал "Расписание" для наставников Skyeng](https://docs.google.com/document/d/13MYw7Q-7pD6sVYF0iZGfRri2HFA7G6C4/edit)|На портал "Расписание" добален новый тип события "Личное событие". Тестировался функционал личных событий. Проведено smoke, функциональное, регрессионное и приемочное тестирование. Составлен план тестирования. По результатам тестирования оформлены баг-репорты и отчет.|<ul><li> Confluence - тест-план и отчет</li><li>qase.io - тест-кейсы</li><li>Sitechko - чек-листы</li><li>xmind - декомпозиция</li><li>Jira - баг-репорты</li>|
+|2|[Тестирование API портала "Расписание"](https://docs.google.com/document/d/1G3reAJJa4KpCfVf-9gBWJPmIEeEtyVQm/edit)|
+
 
