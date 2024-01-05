@@ -1,10 +1,13 @@
 # Привет. Меня зовут Илья.
 Я джуниор-тестировщик, ищу удаленную работу.
+<br><br>
 ## Обо мне
 Я ручной тестировщик. Активно изучаю Python, JavaScript, SQL. Прохожу различные онлайн-курсы по смежным с тестированием дисциплинам. Участвую в краудфандинговых проектах тестирования. Планирую развиваться в сторону автоматизированного тестирования на связке Python-Selenium. 
+<br><br>
 ## Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IlyaSin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilsinyakov@gmail.com)
+<br><br>
 ## Языки и инструменты
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Qase Badge](https://img.shields.io/badge/Qase-4F46DC?logo=qase&logoColor=fff&style=for-the-badge)
